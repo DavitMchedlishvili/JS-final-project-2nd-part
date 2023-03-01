@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
          {
              name : 'Phoenix',
              img : 'Image/Phoenix.webp',
-             id: 0,
+             
  
          },
          
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
          {
              name : 'Fade',
              img : 'Image/Fade.webp',
-             id: 2,
+             
          },
          {
              name : 'Fade',
