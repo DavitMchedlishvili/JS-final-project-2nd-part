@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+
+
+
+
+.grid{
+    border: red 2px solid;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1024px;
+    height: 768px;
+    
+}
