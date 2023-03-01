@@ -61,10 +61,10 @@ document.addEventListener('DOMContentLoaded', ()=> {
              
          },
          {
-             name : 'Sova',
-             img : 'Image/Sova.webp',
+            name : 'Sova',
+            img : 'Image/Sova.webp',
             
-         },
+        },
      ]
  
  
