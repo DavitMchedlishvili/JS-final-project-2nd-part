@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', ()=> {
-
+ 
     const cardArray = [
          {
              name : 'Phoenix',
@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
  
  const gameBox = document.querySelector('.grid');
  const resultDisplay = document.getElementById('result');
+
  let cardsChosen = [];
  let cardsChosenId = [];
  let cardsWon = [];
